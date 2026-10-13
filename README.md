@@ -9,8 +9,9 @@ Me chamo Alex, tenho 22 anos e sou natural do estado de São Paulo-Brasil. Sou f
     <a href="https://www.linkedin.com/in/alex-moraes-b12880207/">
         <img 
             alt="linkedin profile" 
-            title="ILinkedIn" 
-            src="https://delivery-p143253-e1476319.adobeaemcloud.com/adobe/assets/urn:aaid:aem:e7a55800-0e61-468d-9c5a-78a5ba50321c/original/as/brandg-linkedinlogo-hero-logo-dsk-v01-png-original.png"
+            title="LinkedIn" 
+            width="90px" 
+            src="https://images.squarespace-cdn.com/content/v1/5e2f2c9ca1e8e420307e5fb0/1617306924457-LNWYV6KS4P4K4DT0PRT1/LinkedIn+Connect+Button"
         />
     
 </p>

@@ -13,7 +13,14 @@ Me chamo Alex, tenho 22 anos e sou natural do estado de São Paulo-Brasil. Sou f
             width="90px" 
             src="https://images.squarespace-cdn.com/content/v1/5e2f2c9ca1e8e420307e5fb0/1617306924457-LNWYV6KS4P4K4DT0PRT1/LinkedIn+Connect+Button"
         />
-    
+          <a href="mailto:alexfelipemoraes@outlook.com">
+        <img 
+            alt="email" 
+            title="Email" 
+            width="90px"
+            style="padding-right: 10px;"  
+            src="https://comeunospecchio.com/wp-content/uploads/2017/04/email-land.gif"
+        />
 </p>
 
 ---
